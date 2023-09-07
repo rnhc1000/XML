@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<CATALOG>
+	<CD>
+		<TITLE>The Dark Side of the Moon</TITLE>
+		<ARTIST>Pink Floyd</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Capital Records</COMPANY>
+		<PRICE>12.99</PRICE>
+		<COST>5.99</COST>
+		<YEAR>1973</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Houses of the Holy</TITLE>
+		<ARTIST>Led Zeppelin</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Atlantic Records</COMPANY>
+		<PRICE>13.99</PRICE>
+		<COST>5.99</COST>
+		<YEAR>1973</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Beggars Banquet</TITLE>
+		<ARTIST>Rolling Stones</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Decca Records</COMPANY>
+		<PRICE>11.99</PRICE>
+		<COST>5.99</COST>
+		<YEAR>1968</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Still got the blues</TITLE>
+		<ARTIST>Gary Moore</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Virgin records</COMPANY>
+		<PRICE>10.20</PRICE>
+		<YEAR>1990</YEAR>
+	</CD>
+</CATALOG>

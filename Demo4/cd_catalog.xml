@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE CATALOG SYSTEM "cd_catalog.dtd">
+<CATALOG>
+  <CD genre="Rock">
+	  <cd:TITLE>The Dark Side of the Moon</cd:TITLE>
+	  <cd:ARTIST>Pink Floyd</cd:ARTIST>
+	  <cd:COUNTRY>USA</cd:COUNTRY>
+	  <cd:COMPANY>Capital Records</cd:COMPANY>
+	  <cd:PRICE>12.99</cd:PRICE>
+	  <cd:COST>5.99</cd:COST>
+	  <cd:YEAR>1973</cd:YEAR>
+	  <cd:INVENTORY>3</cd:INVENTORY>
+  </CD>
+  <CD genre="Rock">
+	  <cd:TITLE>Houses of the Holy</cd:TITLE>
+	  <cd:ARTIST>Led Zeppelin</cd:ARTIST>
+	  <cd:COUNTRY>USA</cd:COUNTRY>
+	  <cd:COMPANY>Atlantic Records</cd:COMPANY>
+	  <cd:COST>5.99</cd:COST>
+	  <cd:YEAR>1973</cd:YEAR>
+	  <cd:INVENTORY>2</cd:INVENTORY>
+  </CD>
+  <CD genre="Rock">
+	  <cd:TITLE>Beggars Banquet</cd:TITLE>
+	  <cd:ARTIST>Rolling Stones</cd:ARTIST>
+	  <cd:COUNTRY>USA</cd:COUNTRY>
+	  <cd:COMPANY>Decca Records</cd:COMPANY>
+	  <cd:PRICE>11.99</cd:PRICE>
+	  <cd:COST>5.99</cd:COST>
+	  <cd:YEAR>1968</cd:YEAR>
+ 	  <cd:INVENTORY>1</cd:INVENTORY>
+ </CD>
+ <VINYL genre="Rock">
+	  <vy:TITLE>Who's Next</vy:TITLE>
+	  <vy:ARTIST>The Who</vy:ARTIST>
+	  <vy:COUNTRY>USA</vy:COUNTRY>
+	  <vy:COMPANY>Decca Records</vy:COMPANY>
+	  <vy:PRICE>19.99</vy:PRICE>
+	  <vy:COST>9.99</vy:COST>
+	  <vy:YEAR>1971</vy:YEAR>
+ 	  <vy:INVENTORY>1</vy:INVENTORY>
+ </VINYL>
+ <COPYRIGHT>&c;</COPYRIGHT>
+ </CATALOG>

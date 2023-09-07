@@ -1,0 +1,30 @@
+<!ELEMENT CATALOG (CD*,VINYL*,COPYRIGHT)>
+<!--CD DECLARATIONS-->
+<!ELEMENT CD (cd:TITLE,cd:ARTIST,cd:COUNTRY,cd:COMPANY,cd:PRICE?,cd:COST,cd:YEAR,cd:INVENTORY?)>
+<!ATTLIST CD genre CDATA #IMPLIED 
+                           xmlns:cd CDATA #FIXED "http://rockclassics.com/dtds/"> 
+<!ELEMENT cd:TITLE (#PCDATA)>
+<!ELEMENT cd:ARTIST (#PCDATA)>
+<!ELEMENT cd:COUNTRY (#PCDATA)>
+<!ELEMENT cd:COMPANY (#PCDATA)>
+<!ELEMENT cd:PRICE (#PCDATA)>  
+<!ELEMENT cd:COST (#PCDATA)>
+<!ELEMENT cd:YEAR (#PCDATA)>
+<!ELEMENT cd:INVENTORY (#PCDATA)>
+<!ELEMENT cd:BIN (#PCDATA)>
+<!ELEMENT VINYL (vy:TITLE,vy:ARTIST,vy:COUNTRY,vy:COMPANY,vy:PRICE?,vy:COST,vy:YEAR,vy:INVENTORY?)>
+<!--VINYL DECLARATIONS-->
+<!ATTLIST VINYL genre CDATA #IMPLIED 
+                           xmlns:vy CDATA #FIXED "http://rockclassics.com/dtds/"> 
+<!ELEMENT vy:TITLE (#PCDATA)>
+<!ELEMENT vy:ARTIST (#PCDATA)>
+<!ELEMENT vy:COUNTRY (#PCDATA)>
+<!ELEMENT vy:COMPANY (#PCDATA)>
+<!ELEMENT vy:PRICE (#PCDATA)>  
+<!ELEMENT vy:COST (#PCDATA)>
+<!ELEMENT vy:YEAR (#PCDATA)>
+<!ELEMENT vy:INVENTORY (#PCDATA)>
+<!ELEMENT vy:BIN (#PCDATA)>
+<!ENTITY cn "Rock Classics, Ltd.">
+<!ENTITY c "Copyright &cn; All Rights Reserved.">
+<!ELEMENT COPYRIGHT (#PCDATA)>

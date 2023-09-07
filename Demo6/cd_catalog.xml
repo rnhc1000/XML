@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cd_catalog2.xsl"?>
+<CATALOG>
+  <CD>
+	  <TITLE>The Dark Side of the Moon</TITLE>
+	  <ARTIST>Pink Floyd</ARTIST>
+	  <COUNTRY>USA</COUNTRY>
+	  <COMPANY>Capital Records</COMPANY>
+	  <PRICE>12.99</PRICE>
+	  <COST>5.99</COST>
+	  <YEAR>1973</YEAR>
+	  <INVENTORY>3</INVENTORY>
+  </CD>
+  <CD>
+	  <TITLE>Houses of the Holy</TITLE>
+	  <ARTIST>Led Zeppelin</ARTIST>
+	  <COUNTRY>USA</COUNTRY>
+	  <COMPANY>Atlantic Records</COMPANY>
+	  <PRICE>13.99</PRICE>
+	  <COST>5.99</COST>
+	  <YEAR>1973</YEAR>
+	  <INVENTORY>4</INVENTORY>
+  </CD>
+  <CD>
+	  <TITLE>Beggars Banquet</TITLE>
+	  <ARTIST>Rolling Stones</ARTIST>
+	  <COUNTRY>USA</COUNTRY>
+	  <COMPANY>Decca Records</COMPANY>
+	  <PRICE>11.99</PRICE>
+	  <COST>5.99</COST>
+	  <YEAR>1968</YEAR>
+	  <INVENTORY>6</INVENTORY>
+ </CD>
+</CATALOG>
